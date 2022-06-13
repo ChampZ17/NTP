@@ -43,3 +43,6 @@ int main() {
 
     system("pause");
 }
+
+
+//100./(procenat/brojacOcjena)
